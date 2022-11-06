@@ -1,0 +1,21 @@
+{
+  "name": "clongooglepckg",
+  "version": "1.0.0",
+  "description": "clon",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ./src",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7SilviaT/clonGoogle.git"
+  },
+  "author": "silvia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7SilviaT/clonGoogle/issues"
+  },
+  "homepage": "https://github.com/7SilviaT/clonGoogle#readme"
+}
